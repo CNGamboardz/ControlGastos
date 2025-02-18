@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Gastos_Financieros
 {
-    public partial class Form1 : Form
+    public partial class interfaz_gasto : Form
     {
-        public Form1()
+        public interfaz_gasto()
         {
             InitializeComponent();
         }

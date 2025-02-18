@@ -2,9 +2,9 @@ C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\bin\Debug\Gastos Fi
 C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\bin\Debug\Gastos Financieros.exe
 C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\bin\Debug\Gastos Financieros.pdb
 C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\obj\Debug\Gastos Financieros.csproj.AssemblyReference.cache
-C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\obj\Debug\Gastos_Financieros.Form1.resources
 C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\obj\Debug\Gastos_Financieros.Properties.Resources.resources
 C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\obj\Debug\Gastos Financieros.csproj.GenerateResource.cache
 C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\obj\Debug\Gastos Financieros.csproj.CoreCompileInputs.cache
 C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\obj\Debug\Gastos Financieros.exe
 C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\obj\Debug\Gastos Financieros.pdb
+C:\Users\erick\Source\Repos\ControlGastos\Gastos Financieros\obj\Debug\Gastos_Financieros.interfaz_gasto.resources
